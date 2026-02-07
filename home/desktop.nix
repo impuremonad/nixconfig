@@ -58,6 +58,7 @@
     amp-cli
     wl-clipboard
     hyprpaper
+    p7zip
   ];
 
   home.sessionVariables = {
